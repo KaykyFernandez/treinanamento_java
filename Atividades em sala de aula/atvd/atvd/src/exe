@@ -1,0 +1,24 @@
+“Banco (do germânico banki, através do latim vulgar) é uma instituição
+financeira intermediária entre agentes superavitários e agentes deficitários.
+Exercem, além de outras funções, a de captar os recursos dos superavitários
+e emprestá-los a juros aos deficitários, gerando a margem de ganho
+denominada de spread bancário. Todo banco, público ou privado, apresenta
+estas características. Os bancos têm, também, por funções, depositar capital
+em formas de poupança, financiar automóveis e casas, trocar moedas
+internacionais, realizar pagamentos, entre outros.”
+(https://pt.wikipedia.org/wiki/Banco)
+Antônio Ello é um banqueiro muito rico, dono de um dos maiores bancos do
+mundo, o famoso “Banco Ello”. Esse magnata te contratou para criar um
+programa na linguagem de programação JAVA para gerenciar as contas de
+seu banco.
+Segundo as especificações do banqueiro, toda conta possui Número, Saldo e
+Nome do Titular. Além disso, toda conta possui as funções de Depositar, Sacar
+e Imprimir Saldo e Imprimir Dados da Conta.
+O magnata também deixou claro que o Saldo da conta só pode ser alterado
+através das funções Depositar e Sacar.
+
+Utilizando os conceitos de Classe, Objetos, Atributos, Métodos e
+Encapsulamento, crie um programa para satisfazer as necessidades de
+Antônio Ello.
+No programa principal, crie 3 contas distintas, efetue alguns depósitos e
+saques e imprima as informações na tela.

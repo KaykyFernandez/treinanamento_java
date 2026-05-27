@@ -1,0 +1,26 @@
+3) Você foi contratado para desenvolver um sistema simples de cadastro de
+produtos para uma loja. Esse sistema deve permitir que os usuários criem e
+visualizem produtos utilizando conceitos de Orientação a Objetos em Java.
+Requisitos do sistema:
+1. Criar uma classe Produto que contenha:
+
+\*o Métodos públicos:
+▪ exibirDetalhes(): Exibe as informações do produto.
+▪ adicionarEstoque(int quantidade): Adiciona
+unidades ao estoque.
+▪ removerEstoque(int quantidade): Remove unidades
+do estoque, se houver quantidade suficiente.*\
+
+o Encapsulamento:
+▪ Criar métodos getters e setters para acessar e
+modificar os atributos de forma controlada.
+▪ Garantir que o preço e a quantidade em estoque não
+possam ser negativos.
+
+2. Criar um construtor na classe Produto para inicializar os atributos
+no momento da criação do objeto.
+3. Criar a classe principal (Main) para testar a classe Produto:
+
+o Criar pelo menos dois objetos da classe Produto.
+o Exibir os detalhes dos produtos.
+o Modificar o estoque de um produto e exibir as alterações.
